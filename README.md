@@ -1,2 +1,2 @@
 # DISM-Rehan
-Checking file or  learning
+Changes into readme file
